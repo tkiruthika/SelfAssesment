@@ -56,11 +56,13 @@ We used Logistic Regression, Decision Tree, and Random Forest classifiers and ad
 
 ### Models_Classification
 
-
+![Models_Classification](https://user-images.githubusercontent.com/95719819/172752000-da15e71a-c0fd-4ff4-802b-e5f2f94c01a4.png)
 
 ### Model Choice
 
 Our final model choice is the Random Forest classifier with Oversampling techniques applied. Benefits to using a Random Forest classifier are that the model is robust against overfitting as well as it runs efficiently on large datasets such as ours. Some cons to this model specifically is that it has a low balanced accuracy score but high recall and precision scores which show not very many false negatives and false positives.
 
 ### Confusion Matrix & Classification Report
+
+![confusion class](https://user-images.githubusercontent.com/95719819/172752054-981dd02d-9895-4dac-885c-292f600c6269.png)
 
