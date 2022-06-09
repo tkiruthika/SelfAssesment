@@ -3,11 +3,11 @@
 ## Contribution
 
 In the process of creating a machine learning model for the New Delhi Weather Machine Learning Model, I chose the 'Square Role'. The below list shows my contribution to the project in different segments.
-    - For cleaning our dataset, helped the team member in grouping the conditions, and got involved in all the discussions for creating the database from our csv file.
-    - Being in the square role, I prepared the ReadMe for the first segment deliverable according to the rubric, which helped us get 100% score in our first segment of the project. In addition to that I also created the DecisionTree machine learning model for the first segment, so that our team tried two machine learning models in our first segment itself.
-    - The DecisionTree Model had high accuracy than the other model that was created by the other team member. As ours is a Weather data set we need high precision, for the second segment of our project I along with other team member created the RandomForestClassifier model which is like the expansion of the DecisionTree Model with multiple trees. And the RandomForest out performed the DecisionTree model.
-    - As our data was highly imbalanced data other team member came with the idea to do RandomOversampling  for the third segment of our project and RandomUndersampling for all the three models we created. As expeceted RandomForestClassifier with RandomOversamlpling performed little better than normal RandomForestClassifier. So, I created the excel sheet to show the results comparison of all the three models we created with Oversampling and Undersampling.
-    - In the dashboard creation we discussed on feature analysis and tried finding out important features of our dataset.
+- For cleaning our dataset, helped the team member in grouping the conditions, and got involved in all the discussions for creating the database from our csv file.
+- Being in the square role, I prepared the ReadMe for the first segment deliverable according to the rubric, which helped us get 100% score in our first segment of the project. In addition to that I also created the DecisionTree machine learning model for the first segment, so that our team tried two machine learning models in our first segment itself.
+- The DecisionTree Model had high accuracy than the other model that was created by the other team member. As ours is a Weather data set we need high precision, for the second segment of our project I along with other team member created the RandomForestClassifier model which is like the expansion of the DecisionTree Model with multiple trees. And the RandomForest out performed the DecisionTree model.
+- As our data was highly imbalanced data other team member came with the idea to do RandomOversampling  for the third segment of our project and RandomUndersampling for all the three models we created. As expeceted RandomForestClassifier with RandomOversamlpling performed little better than normal RandomForestClassifier. So, I created the excel sheet to show the results comparison of all the three models we created with Oversampling and Undersampling.
+- In the dashboard creation we discussed on feature analysis and tried finding out important features of our dataset.
 
 ## Personal Challenge
 
